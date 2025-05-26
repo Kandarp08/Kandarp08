@@ -6,9 +6,9 @@
 
 ## 🧠 About Me
 
-- 💻 Proficient in **Python**, **C/C++**, **TypeScript**, and **OCaml**
+- 💻 Proficient in **Java**, **C/C++**, **Python**, **TypeScript**, and **OCaml**
 - 🌐 Experienced with **React**, **Node.js**, **EJS**, and **Express**
-- 📊 Enthusiastic about **data science**, **machine learning**, and **optimization algorithms**
+- 📊 Enthusiastic about **web development**, **machine learning**, and **optimization algorithms**
 - 🛠️ Committed to writing clean, efficient, and maintainable code
 
 ---
