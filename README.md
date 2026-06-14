@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kandarp Dave!
 
-🎓 I'm a Computer Science student at IIIT Bangalore with a passion for building impactful software solutions. My interests span full-stack web development, data science, and algorithmic problem-solving.
+🎓 I'm a Computer Science student at IIIT Bangalore with a passion for building impactful software solutions. My interests span full-stack web development, machine learning, and algorithmic problem-solving.
 
 ---
 
